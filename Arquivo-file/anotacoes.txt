@@ -1,0 +1,32 @@
+git ==> é uma ferramenta(software):
+	versionamento de código.
+	versionamento: estado qualquer coisa.
+	não tem haver com gitHub.
+GitHub ==> é uma plataforma em nuvem.
+	Armazenar repositórios de versionamento de código.
+
+Passo a Passo:
+	(Baixar git: winget install Git.Git)
+	=> 1{Abir terminal}.
+	=> 2{digitar: git init}. resposta(initialized wnpty Git repository in)
+	=> 3{digitar: git add nomePasta/nomeAquivo} obs: se estiver em uma pasta.
+	=> 4{digitar: git commit -m "Qualquer texto relacionado ao código."}
+	=> 5{digitar: git log} (observar commit)
+					RESETS:
+	=> 6{digitar: git reset --soft codigo do commit copiado} (nao apaga mudanças locais.)
+	=> 7{digitar: git reset --mixed codigo do commit copiado}
+	=> 8{digitar: git reset --hard codigo do commit copiado} (volta do ultimo commit.)
+					faz commit de mudança
+	=> 9{digitar: git commit -a -m "adiciona comentário"} (faz commit da mudança.)
+					Colocar projeto iteiro no commit:
+	=> 10{digitar: git add .}
+	=> 11{Crir repositório em GitHub}
+	=> 12{digitar: 1:git config --global --list }
+		2{git remote add master Código https do github}
+	==> Enviar para o gitHub{git push -u master master}
+	=> Enviar Projeto inteiro:
+		git commit -m "Projeto inteiro"
+		git push
+	==> branch:
+		1: Master e Main.
+		2: Separar as partes para ir para principal.
