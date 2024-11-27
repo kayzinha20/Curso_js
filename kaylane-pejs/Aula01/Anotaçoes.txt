@@ -1,0 +1,24 @@
+Aula javaScript
+
+Entrada: teclado e mause.
+processamento: CPU. 
+saida: Tela.
+
+vscode- idle utilizada.
+
+como navegar no google:
+ 1- ecrever na barra de pesquisa(c:\ da enter)
+ 2- abrir kaylane-pejs
+ 3- abrir aula01 e depois em ex do dia.
+ 4- clicar em inspecionar e clicar em console.
+
+Variaveis: É um espaço na memória.
+alert() e console.log(): palavra reservada e não pode ser usada como variavel.
+
+prompt() : entrada de dados.
+
+// Comentário curto // 
+/* Comentario longo */
+
+#cuidado para não confundir operação com concatenação.
++: junta String.
