@@ -1,0 +1,10 @@
+Segunda etapa de JavaScript:
+
+-> Mudar en para (pt-br).
+-> querySelector(): armazena referencia ao um elemento em uma variavel e dps
+obtem suas propriedades.
+-> Evento: (submit) clicar no botão é um exemplo.
+-> value: captura o que foi digitado.
+-> innerText: Faz com que a reposta seja exibida na tela.
+->preventDefault(): evita que o conteudo do form sejam perdidas.
+-> required siginifica que é obrigátorio preencher esse campo do formulario.
